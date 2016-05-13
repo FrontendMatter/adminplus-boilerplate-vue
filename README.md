@@ -50,7 +50,7 @@ npm run build-dev
 	
 ## Development server
 
-> You can start a development server on http://localhost:8082 specifically for the demos, with FAST incremental builds and HOT reloading (using webpack-dev-server). 
+> You can start a development server on http://localhost:8080, with FAST incremental builds and HOT reloading (using webpack-dev-server). 
 
 #### Prerequisites
 
