@@ -1,6 +1,6 @@
 {
   "name": "adminplus-boilerplate-vue",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "description": "Vue.js boilerplate using AdminPlus Lite and Bootstrap Layout",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "adminplus": "1.0.0-alpha.12",
     "bootstrap": "4.0.0-alpha.2",
-    "bootstrap-layout": "^1.0.0-alpha.8",
+    "bootstrap-layout": "1.0.0-alpha.8",
     "bootstrap-layout-scrollable": "^1.0.2",
     "jquery": "^2.2.0",
     "mout": "^0.11.1",
