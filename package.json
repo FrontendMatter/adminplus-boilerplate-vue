@@ -1,6 +1,6 @@
 {
   "name": "adminplus-boilerplate-vue",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Vue.js boilerplate using AdminPlus Lite and Bootstrap Layout",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "adminplus": "^1.0.0-alpha.12",
+    "adminplus": "1.0.0-alpha.12",
     "bootstrap": "4.0.0-alpha.2",
     "bootstrap-layout": "^1.0.0-alpha.8",
     "bootstrap-layout-scrollable": "^1.0.2",
@@ -26,6 +26,7 @@
     "simplebar": "github:grsmto/simplebar",
     "tether": "^1.1.1",
     "vue": "^1.0.24",
+    "vue-bootstrap-layout": "1.0.0-alpha.1",
     "vue-router": "^0.7.13"
   },
   "devDependencies": {

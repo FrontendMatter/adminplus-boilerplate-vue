@@ -41,12 +41,10 @@
 </template>
 
 <script>
-	import Layout from 'app/src/components/layout'
-	import Navbar from 'app/src/components/navbar'
-	import Sidebar from 'app/src/components/sidebar'
-	import AppHelloWorld from 'app/src/components/app-hello-world'
-	import AppNavbarNav from 'app/src/components/app-navbar-nav'
-	import SidebarToggle from 'app/src/directives/sidebar-toggle'
+	import { Layout, Navbar, Sidebar, SidebarToggle } from 'vue-bootstrap-layout'
+	import AppHelloWorld from 'app/components/app-hello-world'
+	import AppNavbarNav from 'app/components/app-navbar-nav'
+
 	export default {
 		components: {
 			Layout,

@@ -15,9 +15,6 @@ import 'adminplus/sass/adminplus'
 // Bootstrap Layout
 import 'bootstrap-layout/src/sass/style'
 
-// Bootstrap Layout Scrollable Extension
-import 'bootstrap-layout-scrollable/src/sass/style'
-
 // Vue library
 import Vue from 'vue'
 

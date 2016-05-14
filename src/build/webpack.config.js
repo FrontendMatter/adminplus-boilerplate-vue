@@ -3,7 +3,7 @@ var WebpackConfig = require('themekit-webpack-config')
 var config = new WebpackConfig()
 	.withEntry('demo')
 	.withAlias({
-		'app': path.resolve(__dirname, '../..')
+		'app': path.resolve(__dirname, '..')
 	})
 	.webpack({
 		sassLoader: {

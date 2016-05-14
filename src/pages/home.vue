@@ -29,10 +29,10 @@
 </template>
 
 <script>
-	import Layout from 'app/src/components/layout'
-	import Navbar from 'app/src/components/navbar'
-	import AppHelloWorld from 'app/src/components/app-hello-world'
-	import AppNavbarNav from 'app/src/components/app-navbar-nav'
+	import { Layout, Navbar } from 'vue-bootstrap-layout'
+	import AppHelloWorld from 'app/components/app-hello-world'
+	import AppNavbarNav from 'app/components/app-navbar-nav'
+
 	export default {
 		components: {
 			Layout,

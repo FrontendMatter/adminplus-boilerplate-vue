@@ -12,13 +12,13 @@ router.map({
 	'/': {
 		name: 'home',
 		component: function (resolve) {
-			require(['./views/home'], resolve)
+			require(['./pages/home'], resolve)
 		}
 	},
 	'/sidebar': {
 		name: 'sidebar',
 		component: function (resolve) {
-			require(['./views/sidebar'], resolve)
+			require(['./pages/sidebar'], resolve)
 		}
 	}
 })
